@@ -1,5 +1,5 @@
 # Visualizing Housing Market Trends: An Analysis of Sale Prices and Features using Tableau
-(Live Link)[https://web-production-c0a13.up.railway.app/]
+[Live Link](https://web-production-c0a13.up.railway.app/)
 ## Project Description
 
 This project was developed for ABC Company to address the challenges of understanding the factors that influence house prices and sales trends. By analyzing comprehensive housing data, including total sales by years since renovation, house age distribution by the number of bathrooms, bedrooms, and floors, and the impact of renovations on house age, the project aims to uncover key market insights. Tableau is used to visualize and interpret patterns in the housing market, informing strategic decisions, optimizing pricing strategies, and enhancing overall market competitiveness. Key stakeholders include real estate analysts, marketing teams, and company executives.
